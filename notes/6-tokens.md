@@ -1,6 +1,6 @@
 ## Tokens
 
-In AI world, they don't understand any txt or word. For them it is just numbers (embeddings).
+In AI world, they don't understand any text or word. For them it is just numbers (embeddings).
 
 And then these will be break into token. These tokens drive the cost of the GenAI app too.
 

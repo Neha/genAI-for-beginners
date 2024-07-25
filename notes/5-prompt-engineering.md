@@ -6,21 +6,21 @@ So, it is worth knowing how to improve prompt and get most out of LLMs.
 
 ### What is prompt engineering
 
-Prompt engineering is about asking creative questions to LLMs to get most out of the LLMs
+Prompt engineering is about asking creative questions to LLMs to get most out of the LLMs.
 
-Eg: 
+Let's look into an example:
 
-user: Can you review this: 
+Example 1: _user_: Can you review this: [ CONTENT ]
 
-user: Can you create a new employee welcome email
+Exampple 2: _user_: Can you create a new employee welcome email: [ CONTENT ]
 
-However, we can improve this content by being more specifci and giving more context.
+However, we can improve this content by being more specific and giving better context.
 
-Eg: Be specific what you want to be review - spelling, grammar, sentiment, etc 
+Example 1: Be specific what you want to be review - spelling, grammar, sentiment, etc 
 
-Eg: Give the detail about employee, company, and role, and you will see the difference.
+Exampple 2: Give the details about employee, company, and role, and you will see a better response from the LLM.
 
-takeaway: Be as specific , and clear with your prompt and you will see the difference.
+**Takeaway: Be as specific , and clear with your prompt and you will see the difference.**
 
 ### Type of prompts:
 
@@ -28,12 +28,9 @@ takeaway: Be as specific , and clear with your prompt and you will see the diffe
 
 2. Few shot: Where user will share more context and also do supervised training. 
 
-eg: I/p 
+### Takeaways
 
-o/p
+One can re-train the LLMs by wokring with prompts. This is a cheap and easier way. Keep feeding the more data, and context
+and you will see a huge, and positive improvements.
 
-### takeaways
-
-One can re-train the LLMs by wokring with prompts too.
-
-PS: prompts are crucial for any GenAI app. These will also decide the cost of the app too.
+PS: prompts are crucial for any GenAI app. Prompts will also decide the cost of the app too.
