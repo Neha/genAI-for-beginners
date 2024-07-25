@@ -19,7 +19,7 @@ This is a cheat sheet to do a qucik revision:
 | Temperature   | -   | A number used to tune the degree of randomness   |
 | top-k   | -   | A number used to pick the top results   |
 | top-p   | -   | A numebr used to predict next    |
-| Encoder &  Decoder | -   | Cell 9   |
+| Encoder &  Decoder | -   | -   |
 | LangChain  | -   | Langchain a framework for creating GenAI apps   |
 | Hallunication  | -   | When AI starts start made up content   |
 | Transformers  | -   | Algorithims use for the LLMs   |
@@ -32,7 +32,11 @@ This is a cheat sheet to do a qucik revision:
 while all large language models can be considered foundational models within the context of language, not all foundational models are large language models. Foundational models represent a broader concept that includes multi-modal and general-purpose models.
 
 ### temperature
+TBU
 
 ### top-k
+TBU
 
 ### top-p
+TBU
+

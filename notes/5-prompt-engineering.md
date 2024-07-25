@@ -12,13 +12,13 @@ Let's look into an example:
 
 Example 1: _user_: Can you review this: [ CONTENT ]
 
-Exampple 2: _user_: Can you create a new employee welcome email: [ CONTENT ]
+Example 2: _user_: Can you create a new employee welcome email: [ CONTENT ]
 
 However, we can improve this content by being more specific and giving better context.
 
 Example 1: Be specific what you want to be review - spelling, grammar, sentiment, etc 
 
-Exampple 2: Give the details about employee, company, and role, and you will see a better response from the LLM.
+Example 2: Give the details about employee, company, and role, and you will see a better response from the LLM.
 
 **Takeaway: Be as specific , and clear with your prompt and you will see the difference.**
 
