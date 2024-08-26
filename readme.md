@@ -15,11 +15,13 @@ Curious to explore new trending technologies and GenAI is everywhere
 
 | s. no | topics| status |
 |----------|----------|----------|
-| 1   | Introduction  | WIP   |
-| 2   | Learning path   | WIP   |
-| 3   | Papers to read   | WIP   |
+| 1   | Introduction  | Done   |
+| 2   | Learning path   | Done   |
+| 3   | Papers to read   | Done   |
 | 4   | Cheat Sheet   | WIP   |
-| 4   | LLMs   | WIP   |
+| 5   | LLMs   | Done   |
+| 6   | Tokens   | Done   |
+| 7   | Embeddings   | WIP   |
 
 ## Follow me here 
 

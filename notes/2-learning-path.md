@@ -34,9 +34,6 @@ Below are the list of courses, books, YouTube videos, and workshops I am followi
     Progress: On going
  
 
-### Books
-
-
 ### YouTube Videos
 
 1. https://youtu.be/UCOgtcwwim4?si=UL3g--8jUPvSQme0
