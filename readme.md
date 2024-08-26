@@ -23,6 +23,13 @@ Curious to explore new trending technologies and GenAI is everywhere
 | 6   | Tokens   | Done   |
 | 7   | Embeddings   | WIP   |
 
+## My blogs on GenAI:
+
+1. [GenAI for dummies](https://dev.to/hellonehha/genai-for-dummies-48j7)
+
+2. [LLMs introduction](https://dev.to/hellonehha/what-are-llms-4ap8)
+
+
 ## Follow me here 
 
 Found something that can be improve, or change? Please raise a PR. You can reach me at [Twitter]() or [Linkdln]().
