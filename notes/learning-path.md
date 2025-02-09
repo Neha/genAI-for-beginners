@@ -8,7 +8,7 @@ Below are the list of courses, books, YouTube videos, and workshops I am followi
 
     Progress: Completed
 
-    Level: Beginner
+    Level: 100
 
     Any pre-requisits: None. Non-techncial can also take
 
@@ -21,7 +21,7 @@ Below are the list of courses, books, YouTube videos, and workshops I am followi
 
     Progress: Completed
 
-    Level: Beginner
+    Level: 100
 
     Any pre-requisits: None. Non-techncial can also take
 
@@ -31,8 +31,9 @@ Below are the list of courses, books, YouTube videos, and workshops I am followi
 
 3. https://www.coursera.org/learn/generative-ai-with-llms 
 
-    Progress: On going
+    Progress: Completed
  
+    Level: 100
 
 ### YouTube Videos
 
