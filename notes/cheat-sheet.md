@@ -32,11 +32,11 @@ This is a cheat sheet to do a qucik revision:
 while all large language models can be considered foundational models within the context of language, not all foundational models are large language models. Foundational models represent a broader concept that includes multi-modal and general-purpose models.
 
 ### temperature
-TBU
+tempertaure is a hyperparameters (value between 0-1) which helps in setting the model's output creativeness. Example: 0 means very strict and low creativeness (means low chances of hallucination), 1 means model's output will be more align to being creative and can create hallucinatied results. 
 
 ### top-k
-TBU
+top-k limits the number of next quality output token
 
 ### top-p
-TBU
+top-p limits the percentage of next quality output token
 
