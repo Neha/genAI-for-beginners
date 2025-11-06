@@ -31,6 +31,12 @@ This is a cheat sheet to do a qucik revision:
 ### LLMs vs FMs
 while all large language models can be considered foundational models within the context of language, not all foundational models are large language models. Foundational models represent a broader concept that includes multi-modal and general-purpose models.
 
+In AI fundamentals difference between LLMs and FMs is important:
+
+1 . LLMs are general purpose or FMs?
+
+2 . LLMs are specialied or FMs?
+
 ### temperature
 tempertaure is a hyperparameters (value between 0-1) which helps in setting the model's output creativeness. Example: 0 means very strict and low creativeness (means low chances of hallucination), 1 means model's output will be more align to being creative and can create hallucinatied results. 
 
