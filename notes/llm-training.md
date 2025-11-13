@@ -1,17 +1,27 @@
-There are different ways in which we can train LLMs. 
+## LLMs (large learning models)
 
-Q: Why we would like to train LLMs? 
+Q: Why we would like to train Models? 
 
-Q. Techniques for LLMs training? 
+These models are trained on the data available on the internet with a cutoff date. If we have use-cases where we want to train the models on the 
+important internal content then we will like to tain the model without exposing the knowledge to models.
 
-1. RAG
-2. Fine-tuning
-3. Human interface training
-4. CAG
+Eg: Medical companies, Bank domain etc. 
+
+
+Q. Different way of training?
+
+There are different ways of training a model:
+
+1. Prompt engineering (zero-shot)
+2. Fine-tunning
+3. Context
+4. RAG
 
 Q. Pros and Cons 
+
 
 Q. Eval of Training methods?
 
 1. Cost:
 2. Time:
+3. Complixity
